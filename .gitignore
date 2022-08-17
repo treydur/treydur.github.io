@@ -4,4 +4,4 @@ _site
 node_modules
 Gemfile.lock
 *.gem
-_posts\examples
+examples
