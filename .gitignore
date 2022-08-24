@@ -5,3 +5,4 @@ node_modules
 Gemfile.lock
 *.gem
 /_posts/examples
+notes.txt
